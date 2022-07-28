@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head>
+<title> THIRD ACTIVITY </title>
+
+<body background="file:///C:/Users/underground/Desktop/ACTIVITY%202-IPT/Code.GIF">
+</head>
+
+<h1 style="color:Yellow">THIRD ACTIVITY </h1>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2 style="color:YELLOW">FACEBOOK </h2>
+<fontcolor="white" face="Times new roman" size="4">
+<h2 style="background-color:black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo minima ratione deleniti aspernatur perspiciatis quo quis repellat doloremque labore, deserunt quibusdam ea consequatur ipsa dicta autem temporibus necessitatibus blanditiis cumque! Sed nam vitae possimus, soluta minus neque quidem voluptatum expedita sunt iusto, reiciendis rerum deleniti, atque sapiente illo! Quam, illum.</h2>
+</tr>
+</th><br>
+<tr>
+<th>
+<h2 style="color:YELLOW">GOOGLE </h2>
+<fontcolor="white" face="Times new roman" size="4">
+<h2 style="background-color:black"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere rerum inventore numquam minus vel repellat nobis nulla voluptatum nesciunt et fugiat, atque sed, unde reiciendis dolorem, tempora laborum quam excepturi ea aspernatur sit praesentium? Similique fuga velit debitis quia doloremque optio nisi ea iure! Quae labore praesentium esse laudantium dicta.</h2>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2 style="color:YELLOW">YOUTUBE </h2>
+<fontcolor="white" face="Times new roman" size="4">
+<h2 style="background-color:black">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum atque dolore enim minima adipisci voluptatum. Iure eveniet dolore totam eos sed incidunt dignissimos, impedit numquam quasi officiis autem accusamus tempore quas, quisquam voluptates odio minima minus sequi reprehenderit expedita ratione in. Quasi ducimus dicta suscipit aspernatur dolor aperiam quos consequuntur.</h2>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2 style="color:YELLOW">INSTAGRAM </h2>
+<fontcolor="white" face="Times new roman" size="4">
+<h2 style="background-color:black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate magnam ab nam voluptatum recusandae, rerum, possimus modi, vitae omnis facere excepturi? Illo iste ea quod in unde rem ex laudantium nihil libero veniam vel, non maxime asperiores pariatur ducimus. Illo dolorem, dolore consequuntur commodi laborum maxime quidem iusto quo harum!</h2>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2 style="color:YELLOW">TIKTOK </h2>
+<fontcolor="white" face="Times new roman" size="4">
+<h2 style="background-color:black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum mollitia vel nam in atque minus alias consequatur quaerat distinctio, iure, optio, incidunt dolor. Error quo quisquam culpa provident aspernatur esse ducimus corrupti dignissimos porro quia minima maxime repellendus debitis, nobis impedit molestiae quae optio. Inventore fugit accusantium suscipit doloribus dolorem!</h2>
+</th>
+</tr><br>
+<style>
+    table, tr, th, td {
+        border:5px solid blue;
+        border-collapse:collapse;
+        width:1000px;
+        height:100px;
+}
+th {
+    background:yellow;
+}
+td:nth-child(5n+1){
+    Background:Orange;
+}
+td:nth-child(5n+2){
+    Background:Orange;
+}
+td:nth-child(5n+3){
+    Background:Orange;
+}
+</style>
+<body>
+    <table>
+        <tr>
+            <th rowspan="4">SEARCH</th>
+            <th>BROWSER</th>
+            <th>WEBSITES</th>
+            <th>LINKS</th>
+        </tr>
+        <tr>
+            <td>CHROME</td>
+            <td>GOOGLE</td>
+            <td>
+<a href="https://www.google.com/">GOOGLE</a>
+</td>
+        </tr>
+        <tr>
+            <td>CHROME</td>
+            <td>FACEBOOK</td>
+            <td>
+<a href="https://www.facebook.com/">FACEBOOK</a>
+</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>CHROME</td>
+            <td>YOUTUBE</td>
+            <td>
+<a href="https://www.youtube.com/">YOUTUBE</a>
+</td>
+
+        </tr>
+    </table>
+
+</body>
+</html>
